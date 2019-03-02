@@ -27,3 +27,4 @@ distance.matrix(origins, destinations, function (err, distances) {
         }
     }
 });
+console.log("view 20");
